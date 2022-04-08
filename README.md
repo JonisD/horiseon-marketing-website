@@ -1,21 +1,11 @@
 ## Read Me
 
-## Link to deployed GitHub Page: 
+## Link to deployed GitHub Page:
 
-## Project Title: Refactoring the html and css for Horiseon website. 
+## Project Title: Refactoring the html and css for Horiseon website.
 
-## Description: 
+## Description:
 
 ## Technologies:
 
 ## Screenshots:
-
-
-
-
-
-
-
-
-
-
