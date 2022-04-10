@@ -1,6 +1,6 @@
 ## Read Me
 
-## Link to deployed GitHub Page:[Website](https://jonisd.github.io/horiseon-marketing-website/)
+## Link to deployed GitHub Page:[Deployed website link](https://jonisd.github.io/horiseon-marketing-website/)
 
 ## Project Title: Refactoring the HTML and CSS for Horiseon website.
 
