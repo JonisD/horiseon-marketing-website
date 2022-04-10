@@ -25,7 +25,7 @@ body {
   color: #d9dcd6;
 }
 
-/* Section below changed to header nav due to remaning of */
+/* CSS Styling class name changed to head nav due to use of semantic html nav syntax added on html code  */
 
 .header nav {
   padding-top: 15px;
@@ -78,6 +78,10 @@ p {
   margin-left: 20px;
 }
 
+/*  Multiple CSS styling sections removed due to being duplicates  */
+
+/* CSS styling classes now present serve the same function as the previous deleted groupings */
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -99,6 +103,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* Multiple CSS styling classes removed due to being duplicates */
 
 .section {
   margin-bottom: 20px;
@@ -125,6 +131,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* Footer CSS styling class not changed */
 
 .footer {
   padding: 30px;
